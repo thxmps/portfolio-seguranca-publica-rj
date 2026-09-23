@@ -1,8 +1,6 @@
 # 🛡️ Dashboard de Segurança Pública | Rio de Janeiro
 > **Tratamento de Dados, Modelagem e Análise de Crimes Patrimoniais (2015 – 2025)**
 
-![Dashboard de Segurança Pública](dashboard.png)
-
 ---
 
 ## 📌 Motivação do Projeto
@@ -47,7 +45,4 @@ Dados abertos extraídos do portal do Instituto de Segurança Pública (ISP-RJ) 
 
 ## 👤 Autor
 
-**Thompson Mauricio Lima**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+**Thompson M Lima**
