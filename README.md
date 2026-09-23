@@ -3,6 +3,8 @@
 
 ![Dashboard de Segurança Pública](assets/dashboard.png)
 
+👉 [**🔗 ACESSAR DASHBOARD INTERATIVO NO POWER BI WEB**](https://app.powerbi.com/view?r=eyJrIjoiY2ExNzMxZjYtMzRkMy00YWE0LTlmNmQtNTkzNjM2OTgxMmRjIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
 ---
 
 ## 📌 Motivação do Projeto
@@ -15,6 +17,11 @@ Desenvolvi este projeto por curiosidade analítica em relação à dinâmica da 
 
 > [!NOTE]
 > **Foco do Projeto:** Transformar grandes volumes de ocorrências históricas brutas em indicadores operacionais claros para apoio à tomada de decisão e análise espacial.
+
+---
+
+## 🔗 Link de Acesso
+* **Relatório Web:** [Visualizar Painel Interativo no Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiY2ExNzMxZjYtMzRkMy00YWE0LTlmNmQtNTkzNjM2OTgxMmRjIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 ---
 
