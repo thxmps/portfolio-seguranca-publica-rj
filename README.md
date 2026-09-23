@@ -1,6 +1,8 @@
 # 🛡️ Dashboard de Segurança Pública | Rio de Janeiro
 > **Tratamento de Dados, Modelagem e Análise de Crimes Patrimoniais (2015 – 2025)**
 
+![Dashboard de Segurança Pública](assets/dashboard.png)
+
 ---
 
 ## 📌 Motivação do Projeto
