@@ -52,6 +52,16 @@ Dados abertos extraídos do portal do Instituto de Segurança Pública (ISP-RJ) 
 
 ---
 
+## 💡 Principais Insights Encontrados (2015 – 2025)
+
+* **Predomínio do Uso de Violência (High Risk):** Do volume total patrimonial analisado (**617 Mil** casos), **67,85%** correspondem a **Roubos de Veículos** (**372 Mil**), evidenciando que a maioria expressiva das abordagens automotivas no estado ocorre de forma violenta, enquanto os furtos respondem por **176 Mil** ocorrências.
+* **Trajetória e Tendência Histórica:** O volume de roubos de veículos atingiu seu pico histórico em 2017 (**54 Mil** casos/ano) e apresentou uma queda acentuada até 2023, onde atingiu a mínima da série temporal (**22 Mil**). Em 2024 registrou-se um repique pontual (**31 Mil**), voltando a cair em 2025 (**25 Mil**).
+* **Gargalos do Roubo de Carga:** Das **68 Mil** ocorrências de roubo de carga no período, a mancha criminal está fortemente concentrada na Baixada Fluminense e Subúrbio, tendo como principais eixos críticos **Duque de Caxias (Centro)** com **5,2 Mil** casos e **São João de Meriti** com **4,1 Mil**.
+* **Hotspots de Maior Gravidade Relativa (AISP):** O **41º BPM (Irajá / Pavuna / Vicente de Carvalho)** e o **39º BPM (Belford Roxo)** registram os maiores índices de gravidade do estado, com **82,99%** e **80,35%** de proporcionalidade de roubos sobre furtos, registrando mais de **4 roubos para cada 1 furto**.
+* **Anomalia de Furtos por Batalhão:** Enquanto Irajá apresenta altíssimo roubo e baixos furtos, o batalhão de **São Gonçalo** lidera isolado o volume de **Furtos de Veículos (11 Mil)**, ficando muito acima da média estatal por AISP (**4.416** ocorrências).
+
+---
+
 ## 👤 Autor
 
 **Thompson M Lima**
