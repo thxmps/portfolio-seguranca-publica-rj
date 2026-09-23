@@ -63,7 +63,7 @@ WHERE E.ano = 2025
 GROUP BY R.regiao
 ORDER BY total_roubos_veiculo_regiao DESC;
 
--- Top 3 RISPs com maior volume de roubos de carga e CISPs ativas (Com STRING_AGG)
+-- Top 3 RISPs com maior volume de roubos de carga e CISPs ativas
 WITH cisp_agrupada AS (
     SELECT 
         R.id_risp,
@@ -104,7 +104,7 @@ GROUP BY
     D.regiao
 ORDER BY Volume_Total_Patrimonial DESC;
 
--- Maior CISP em roubos de veículos por região em 2025 (ROW_NUMBER)
+-- Maior CISP em roubos de veículos por região em 2025
 WITH ranking_cisp_por_regiao AS (
     SELECT
         R.regiao,
