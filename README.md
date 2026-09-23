@@ -26,9 +26,13 @@ Desenvolvi este projeto por curiosidade analítica em relação à dinâmica da 
 ---
 
 ## 🗂️ Fontes de Dados
-Dados abertos extraídos do portal do Instituto de Segurança Pública (ISP-RJ) em formato CSV:
-1. `br_rj_isp_estatisticas_seguranca_evolucao_mensal_cisp`: Histórico mensal de ocorrências por CISP.
-2. `br_rj_isp_estatisticas_seguranca_relacao_cisp_aisp_risp`: Mapeamento e hierarquia geográfica (CISP, AISP, RISP).
+Dados abertos obtidos através da plataforma **Base dos Dados** (`basedosdados.org`), com base nos registos oficiais do Instituto de Segurança Pública do Rio de Janeiro (ISP-RJ).
+
+> **Sobre os Dados:** O Instituto de Segurança Pública do Rio de Janeiro (ISP) fornece bases de dados de registros criminais e de atividade policial. As estatísticas divulgadas são construídas a partir dos Registros de Ocorrência (RO) lavrados nas delegacias da Secretaria de Estado de Polícia Civil do Rio de Janeiro (SEPOL), além de informações complementares de órgãos específicos da Secretaria de Estado de Polícia Militar do Rio de Janeiro (SEPM). Antes de serem consolidados no ISP, os RO são submetidos ao controle de qualidade realizado pela Corregedoria Geral de Polícia (CGPOL) da Secretaria de Estado de Polícia Civil. As estatísticas produzidas baseiam-se na data em que foi confeccionado o Registro de Ocorrência.
+
+**Arquivos utilizados (disponíveis na pasta [`data`](./data)):**
+1. [`br_rj_isp_estatisticas_seguranca_evolucao_mensal_cisp.csv`](./data/br_rj_isp_estatisticas_seguranca_evolucao_mensal_cisp.csv): Histórico mensal de ocorrências de segurança pública por CISP.
+2. [`br_rj_isp_estatisticas_seguranca_relacao_cisp_aisp_risp.csv`](./data/br_rj_isp_estatisticas_seguranca_relacao_cisp_aisp_risp.csv): Mapeamento e hierarquia geográfica (CISP, AISP e RISP).
 
 ---
 
